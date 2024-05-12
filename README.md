@@ -14,6 +14,7 @@
 - AI on the edge (ai.cloudflare.com)
 - AI on the browser with WebAssembly / transformer.js
 - ***Generative UI***
+- AI + Ecommerce
 
 ## Web Dev
 
@@ -23,10 +24,13 @@
 - ❤️ Svelte / Sveltekit
   (JS libraries should be a complier unlike React, listen to "Rethinking reactivity" - Rich Harris)
 - React, Next (It's a bit bloated but it won)
+- Web Components / Lit
+- Service Workers, PWAs
+- IndexDB (the true edge, free and infinitely scalable, very underrated)
 
 ### Backend
 
-- FastAPI
+- FastAPI (for AI  microservices)
 - Node.js
 - Postgres
 - Docker
@@ -35,6 +39,5 @@
 
 ## Sidenotes
 
-I ❤️ CloudFlare
-
-I ❤️ Hetzner
+- I ❤️ CloudFlare
+- I ❤️ Hetzner
