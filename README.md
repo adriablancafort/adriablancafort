@@ -35,7 +35,7 @@
 - Postgres
 - Docker
 - Kubernetes
-- r/Selfhost
+- r/Selfhosted
 
 ## Sidenotes
 
